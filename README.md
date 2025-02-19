@@ -70,11 +70,21 @@ You can install them using:
 pip install opencv-python customtkinter
 ```
 
+## Screenshots
+
+📷 Below are some screenshots demonstrating the encryption and decryption process:
+
+*![Screenshot 2025-02-19 150844](https://github.com/user-attachments/assets/3a6e4f1e-ce3e-4aa7-be3e-a50ad15bc9d7)*
+*![Screenshot 2025-02-16 144019](https://github.com/user-attachments/assets/48664674-4fc6-4ea9-8f2e-e0907ff7f6b8)*
+*![Screenshot 2025-02-19 150925](https://github.com/user-attachments/assets/5da45ad5-a381-419f-8c0d-9cd6e63f5f23)*
+*![Screenshot 2025-02-16 144139](https://github.com/user-attachments/assets/e025eac1-0e15-42cd-bbe1-2ae77e5c7487)*
+
+
 ## Contributing
 
 🤝 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
 
 ## Contact
 
-📧 For any questions or issues, contact Bhavana at bhavanach379\@gmail.com.
+📧 For any questions or issues, contact Bhavana at bhavanach379@gmail.com.
 
